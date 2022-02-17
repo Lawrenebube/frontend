@@ -1,0 +1,65 @@
+body{
+    background-color: hsl(217, 54%, 11%);
+    text-align: center;
+    font-family: 'Outfit', sans-serif;
+}
+.card{
+    background-color:  hsl(216, 50%, 16%);
+    margin: 50px 480px 40px 500px;
+    border-radius: 7px;
+    text-align: justify;
+        
+}
+.nxt{
+    margin: 0 auto;
+    width: 80%;
+}
+.eqi{
+    height: 300px;
+    padding-top: 30px;
+    padding-right:20px;
+    border: none;
+    border-radius: 7px;
+    padding-left: 25px;
+}
+h3{
+    color: hsl(0, 0%, 100%);
+    font-weight: 600;
+    
+    
+}
+.pa{
+    color:hsl(0, 0%, 100%);
+    font-size: 18px;
+    font-weight: 100;
+}
+.third{
+    border-bottom: 1px solid hsl(215, 32%, 27%);
+    padding-bottom: 20px;
+    font-weight: 300;
+    font-size: 15px;
+}
+.eth{
+    color: cyan;
+    padding-right: 90px;
+}
+.days{
+    color: hsl(0, 0%, 100%);
+}
+.boy{
+    height: 20px;
+    border: 1px solid white;
+    border-radius: 50%;
+    left: 10px;
+}
+.cre{
+    padding-left: 10px;
+}
+footer{
+    display: flex;
+    color: hsl(0, 0%, 100%);
+    padding-bottom:30px;
+    padding-top: 20px;
+    font-weight: 100;
+
+}
