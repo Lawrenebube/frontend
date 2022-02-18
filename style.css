@@ -3,13 +3,13 @@
     padding: o;
     box-sizing: border-box;
     font-family: 'Outfit', sans-serif;
-}
+    }
 body{
     background-color: hsl(217, 54%, 11%);
     text-align: center;
     margin: auto;
-   margin-top: 50px;
-}
+    margin-top: 50px;
+    }
 .card{
     background-color:  hsl(216, 50%, 16%);
     margin: auto;
@@ -17,61 +17,57 @@ body{
     max-width: 330px;
     padding-top: 30px; 
     padding-bottom: 30px;  
-}
+    }
 .nxt{
     margin: 0 auto;
     width: 80%;
     text-align: justify;
-}
+    }
 .eqi{
     max-height: 270px;
     border-radius: 7px;
-}
+    }
 #head{
     text-align: justify;
     padding-left: 33px;
-}
+    }
 h3{
     padding-top: 15px;
     padding-bottom: 15px;
     color: hsl(0, 0%, 100%);
-    font-weight: 600; 
-       
-}
+    font-weight: 600;      
+    }
 p{
     color:hsl(0, 0%, 100%);
     font-size: 17px;
     font-weight: 100;
-    padding-bottom:10px ;
-    
-}
+    padding-bottom:10px ;  
+    }
 .third{
     border-bottom: 1px solid hsl(215, 32%, 27%);
     font-weight: 300;
     font-size: 15px;
-    padding-bottom: 15px;
-    
-}
+    padding-bottom: 15px; 
+    }
 .eth{
     color: cyan;
     padding-right: 90px;
-}
+    }
 .days{
-    color: hsl(0, 0%, 100%);
-    
-}
+    color: hsl(0, 0%, 100%);   
+    }
 .boy{
     height: 20px;
     border: 1px solid white;
     border-radius: 50%;
     left: 10px;
-}
+    }
 .cre{
     padding-left: 10px;
-}
+    }
 footer{
     display: flex;
     color: hsl(0, 0%, 100%);
     font-weight: 100;
     padding-top: 10px;
-}
+    }
